@@ -102,3 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+DexiNed-TF2/weights/
+DexiNed-TF2/DexiNed/*.pb
+DexiNed-TF2/SavedModel/*
+*.tflite
