@@ -106,3 +106,4 @@ DexiNed-TF2/weights/
 DexiNed-TF2/DexiNed/*.pb
 DexiNed-TF2/SavedModel/*
 *.tflite
+DexiNed-TF2/ONNX/*
